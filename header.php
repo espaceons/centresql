@@ -16,7 +16,7 @@
             <ul class="nav-links">
                 <li><a href="index.php">Accueil</a></li>
                 <li><a href="afficher_param.php">À Propos</a></li>
-                <li><a href="#programs">Evennements</a></li>
+                <li><a href="#evenements">Evénements</a></li>
                 <li><a href="#news">Actualités</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
